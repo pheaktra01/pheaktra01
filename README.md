@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi, I'm Pheaktra! 🚀
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Infrastructure+Engineer+|+DevOps+Learner;Full+Stack+Developer;Persona+Style+UI+Designer;Building+Cool+Projects+Everyday" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38bdf8&center=true&vCenter=true&width=700&lines=Infrastructure+Learner+|+DevOps+Learne;Building+Cool+Projects+Everyday" />
 
 ---
 **[Discord](https://discord.com/users/yagami12629) | [LinkedIn](https://www.linkedin.com/in/loeng-pheaktra-2b9578413/)**
