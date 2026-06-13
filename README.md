@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Pheaktra! 🚀
+# Hi, I'm Pheaktra!
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Infrastructure+Engineer+|+DevOps+Learner;Full+Stack+Developer;Anime+&+Persona+Style+UI+Designer;Building+Cool+Projects+Everyday" />
 
 ---
@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 * 🔭 **Current Focus:** C2C Material exchange platform & Persona 3 styled portfolio.
-* 🌱 **Learning:** DevOps, Kubernetes, Jenkins, Terraform, and AWS EC2.
+* 🌱 **Learning:** DevOps, Kubernetes, Jenkins, Terraform, Grafana, Prometheus and AWS EC2.
 * 🎮 **Vibe:** Passionate about Anime/Game-inspired UI/UX design.
 
 ---
@@ -32,16 +32,12 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pheaktra01&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pheaktra01&theme=tokyonight&no-frame=true&column=5" />
 </div>
 
 ---
 
-<div align="center">
-
 ### 🐍 Contribution Activity
-<img src="https://github.com/pheaktra01/pheaktra01/blob/output/github-contribution-grid-snake-dark.svg" />
-
-<img src="https://komarev.com/ghpvc/?username=pheaktra01&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pheaktra01/pheaktra01/output/github-contribution-grid-snake-dark.svg" />
+</p>
